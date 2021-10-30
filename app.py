@@ -5,7 +5,6 @@ Created on Sat Mar 17 15:40:29 2018
 @author: Kaushik
 """
 
-import flask
 from flask import Flask, render_template, request, session, redirect, url_for, flash
 import os
 from werkzeug.utils import secure_filename
