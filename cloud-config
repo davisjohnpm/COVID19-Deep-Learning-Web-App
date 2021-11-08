@@ -1,0 +1,2 @@
+#cloud-config
+instance_class: F4_HIGHMEM
